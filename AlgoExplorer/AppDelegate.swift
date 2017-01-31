@@ -12,10 +12,18 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
-
+    
+    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+        
         // Override point for customization after application launch.
+        
+        UINavigationBar.appearance().barTintColor = UIColor(red: 13/255, green: 30/255, blue: 84/255, alpha: 1.0)
+        if let barFont = UIFont(name: "Avenir-Light", size: 18.0){
+            UINavigationBar.appearance().titleTextAttributes = [NSFontAttributeName : barFont, NSForegroundColorAttributeName : UIColor.white]
+        }
+        UINavigationBar.appearance().tintColor = UIColor.white
+        UIApplication.shared.statusBarStyle = .lightContent
         return true
     }
 

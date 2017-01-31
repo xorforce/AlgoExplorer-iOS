@@ -1,0 +1,21 @@
+PODS:
+  - FLAnimatedImage (1.0.12)
+  - Highlightr (1.0.0)
+  - Hue (2.0.1)
+  - RAMAnimatedTabBarController (2.0.13)
+
+DEPENDENCIES:
+  - FLAnimatedImage (~> 1.0)
+  - Highlightr
+  - Hue
+  - RAMAnimatedTabBarController (~> 2.0.13)
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  Highlightr: 64f9fbfae504144bf7315d5ac23f68e812eb3edc
+  Hue: 354caec055fdc9d38b5ef33ca2e7224721843baf
+  RAMAnimatedTabBarController: 2510f3b66954c3f77ea1042a35d34df8f5f3b604
+
+PODFILE CHECKSUM: 35be5b105125df415ba816db904c216ff2bdd95b
+
+COCOAPODS: 1.2.0.beta.1
