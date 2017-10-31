@@ -22,7 +22,7 @@ Screenshots: <br><br>
 ### I downloaded the project, what now?
 1. Go to the file directory and do a ```pod install```. You must have Cocoapods installed on your system. For more information on Cocoapods, visit [here](https://cocoapods.org/).
 2. Open ```AlgoExplorer.xcworkspace```
-3. Build and Run the project!
+3. Build and Run the project !
 
 ### Requirements
 1. Swift 3.0
