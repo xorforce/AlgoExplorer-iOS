@@ -16,7 +16,7 @@ Screenshots: <br><br>
 4. Graphs - Floyd-Warshall Algorithm, Dijsktra's Algorithm
 
 ## To-Do
-1. Handle small bugs appropriately.
+1. Handle small bugs appropriately .
 2. Due to the lack of a proper REST-based Service, all data is currently local.
 
 ### I downloaded the project, what now?
